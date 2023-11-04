@@ -1,1 +1,2 @@
 this is to understand staging area
+statement added to check poll scm is working or not
